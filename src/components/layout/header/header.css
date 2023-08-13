@@ -1,0 +1,11 @@
+.navbar {
+  width: 100%;
+}
+
+.nav-link {
+  color: rgb(1, 144, 238) !important;
+}
+
+.nav-link.disabled {
+  color: gray !important;
+}
